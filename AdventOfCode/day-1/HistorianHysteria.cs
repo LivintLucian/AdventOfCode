@@ -1,4 +1,4 @@
-﻿namespace AdventOfCode2024.day_1
+﻿namespace AdventOfCodeSolutions.day_1
 {
     public class HistorianHysteria
     {
