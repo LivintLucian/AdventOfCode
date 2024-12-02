@@ -7,7 +7,7 @@
             var historianLineOne = new List<int>();
             var historianLineTwo = new List<int>();
 
-            var puzzleInputPath = @"C:\Users\llivint\source\repos\AdventOfCode\AdventOfCode\day-1\puzzle-input.txt";
+            var puzzleInputPath = @"C:\Users\llivint\source\repos\AdventOfCode\AdventOfCode\AdventOfCode2024\day-1\puzzle-input.txt";
             var puzzleInputStream = new StreamReader(puzzleInputPath);
             try
             {

@@ -1,9 +1,7 @@
-﻿using AdventOfCode2024.day_1;
+﻿using AdventOfCodeSolutions.day_1;
+using AdventOfCodeSolutions.day_2;
 
-var historianObj = new HistorianHysteria();
+var redNosedObj = new RedNosedReports();
 
-var partOneResult = historianObj.HistorianHysteriaPartOne();
-var partTwoResult = historianObj.HistorianHysteriaPartTwo();
-
-Console.WriteLine(partOneResult);
-Console.WriteLine(partTwoResult);
+var results = redNosedObj.NumberOfGoodReports();
+Console.WriteLine(results);
